@@ -1,5 +1,13 @@
 {
   "packages": {
-    "php-extension:gd": "latest"
+    "php": "8.2"
+  },
+  "deploy": {
+    "aptPackages": [
+      "libpng-dev",
+      "libjpeg-dev",
+      "libfreetype6-dev",
+      "libzip-dev"
+    ]
   }
 }
