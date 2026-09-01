@@ -1,0 +1,5 @@
+{
+  "packages": {
+    "php-extension:gd": "latest"
+  }
+}
