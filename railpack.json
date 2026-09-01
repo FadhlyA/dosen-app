@@ -4,6 +4,8 @@
   },
   "deploy": {
     "aptPackages": [
+      "bison",
+      "re2c",
       "libpng-dev",
       "libjpeg-dev",
       "libfreetype6-dev",
